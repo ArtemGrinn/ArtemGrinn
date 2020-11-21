@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=htmlcssphpjs&layout=compact)](https://github.com/htmlcssphpjs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemGrinn&layout=compact)](https://github.com/htmlcssphpjs)
 <!--
 **ArtemGrinn/ArtemGrinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
